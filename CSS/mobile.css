@@ -1,0 +1,17 @@
+/*-------- Mobile Variables ---------*/
+:root{
+    --p-size: 1.2em;
+}
+
+
+/*---------- Small Mobile Formatting (Vertical) ------------------*/
+@media screen and (max-width: 300px){
+}
+
+/*---------- Large Mobile Formatting (Vertical) ------------------*/
+@media screen and (max-width: 500px){
+}
+
+/*---------- Tablet Formatting -----------------------------------*/
+@media screen and (max-width: 800px) {
+}

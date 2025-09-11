@@ -1,7 +1,14 @@
+/*-------- Layout Variables ---------*/
+:root{
+    --page-size: 100%;
+}
+
+
+
 /* --------- BODY & GENERICS --------- */
 body, html {
-  height: 100%;
-  width: 100%;
+  height: var(--page-size);
+  width: var(--page-size);
   margin: 0;
   padding: 0;
 }
