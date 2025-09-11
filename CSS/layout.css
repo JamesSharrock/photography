@@ -1,0 +1,26 @@
+/* --------- BODY & GENERICS --------- */
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 0.5em 0em;
+  text-decoration: none;
+}
+li a:hover {
+  color: none;
+}
+
+
+
+
+/* -------- DIVIDERS -------- */
+
+
+
+/* -------- IMAGES ---------- */
